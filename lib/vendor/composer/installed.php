@@ -1,9 +1,9 @@
 <?php return array(
     'root' => array(
         'name' => 'curasoft/api.curasoft',
-        'pretty_version' => 'dev-main',
-        'version' => 'dev-main',
-        'reference' => '6cb142f1d870ad8ba748553a64d7e7772ad0ba01',
+        'pretty_version' => 'dev-master',
+        'version' => 'dev-master',
+        'reference' => '65eac5cd0a3f1933e822e19ded940f0fb07d8f6b',
         'type' => 'project',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
@@ -11,9 +11,9 @@
     ),
     'versions' => array(
         'curasoft/api.curasoft' => array(
-            'pretty_version' => 'dev-main',
-            'version' => 'dev-main',
-            'reference' => '6cb142f1d870ad8ba748553a64d7e7772ad0ba01',
+            'pretty_version' => 'dev-master',
+            'version' => 'dev-master',
+            'reference' => '65eac5cd0a3f1933e822e19ded940f0fb07d8f6b',
             'type' => 'project',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
