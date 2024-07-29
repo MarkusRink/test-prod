@@ -1,3 +1,0 @@
-[submodule "test-subrepo"]
-	path = test-subrepo
-	url = https://github.com/MarkusRink/test-subrepo
