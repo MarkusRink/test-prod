@@ -1,7 +1,7 @@
 <?php
 
 class FeatureA {
-    public function speak() {
+    public function __construct() {
         echo "Hello World!";
     }
 }
