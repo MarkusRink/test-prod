@@ -2,7 +2,7 @@
 
 class FeatureA {
     public function __construct() {
-        echo "Hello World!!!!";
+        echo "Hello World";
     }
 
     public function speak() {
@@ -10,6 +10,10 @@ class FeatureA {
     }
 
     public function speak2() {
+        echo "Hello World.";
+    }
+
+    public function speak() {
         echo "Hello World.";
     }
 }
