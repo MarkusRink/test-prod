@@ -3,7 +3,7 @@
         'name' => 'curasoft/api.curasoft',
         'pretty_version' => 'dev-master',
         'version' => 'dev-master',
-        'reference' => 'ef3be3fd48ba4580a0736852e0d651d41e1cf93c',
+        'reference' => '3a2a250171e19d870c944e5f2023c24edfca15c5',
         'type' => 'project',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
@@ -13,7 +13,7 @@
         'curasoft/api.curasoft' => array(
             'pretty_version' => 'dev-master',
             'version' => 'dev-master',
-            'reference' => 'ef3be3fd48ba4580a0736852e0d651d41e1cf93c',
+            'reference' => '3a2a250171e19d870c944e5f2023c24edfca15c5',
             'type' => 'project',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
